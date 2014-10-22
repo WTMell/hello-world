@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-Just another repository
+Hi Humans!
+
+Here I am on github . . . dunno if I can contain my excitent
